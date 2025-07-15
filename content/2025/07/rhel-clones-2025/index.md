@@ -4,7 +4,7 @@ date: '2025-07-14'
 url: rhel-clones-almalinux-centos-rocky-2025
 draft: false
 authors:
-  - "Cameron Knauff"
+  - "Brandon Hopkins"
 categories:
   - "Software"
 tags:
@@ -66,9 +66,9 @@ Next up is Rocky Linux. This is another community-backed RHEL clone that emerged
 
 ![](images/03_Rocky_Lineage.png)
 
-Some have also argued that the governance of Rocky Linux is flawed. The Rocky Enterprise Software Foundation is not a registered non-profit but [instead is a Public Benefits Corporation that is supposed to be a "self-imposed not-for-profit"](https://www.resf.org/faq/is-resf-nonprofit). Additionally, Gregory Kurtzer is the president of the Rocky Enterprise Software Foundation, which runs Rocky. However, Gregory Kurtzer also owns CIQ, a company that provides its own version of Rocky Linux with corporate support similar to what Red Hat offers for RHEL. This could be a conflict of interest.
+Some have also argued that the governance of Rocky Linux is flawed. The Rocky Enterprise Software Foundation is not a registered non-profit but "[instead is a Public Benefits Corporation that is supposed to be a "self-imposed not-for-profit](https://www.resf.org/faq/is-resf-nonprofit)". Additionally, Gregory Kurtzer is the president of the Rocky Enterprise Software Foundation, which runs Rocky. However, Gregory Kurtzer also owns CIQ, a company that provides its own version of Rocky Linux with corporate support similar to what Red Hat offers for RHEL. This could be a conflict of interest.
 
-Additionally, Rocky Linux also gets its package sources from some loopholes by getting sRPMs through (Red Hat Universal Base Images and Pay Per Use Cloud Instances)[https://rockylinux.org/news/keeping-open-source-open]. These are hacky workarounds to RHEL's subscription, and frankly, they seem like a legal gray area to me as a non-lawyer. However, Rocky states that ("legal advisors have reassured us that we have the right to obtain the source to any binaries we receive")[https://rockylinux.org/news/keeping-open-source-open], so take all of that for what you will.
+Additionally, Rocky Linux also gets its package sources from some loopholes by getting sRPMs through (Red Hat Universal Base Images and Pay Per Use Cloud Instances)[https://rockylinux.org/news/keeping-open-source-open]. These are hacky workarounds to RHEL's subscription, and frankly, they seem like a legal gray area to me as a non-lawyer. However, Rocky states that "(legal advisors have reassured us that we have the right to obtain the source to any binaries we receive)[https://rockylinux.org/news/keeping-open-source-open]", so take all of that for what you will.
 
 All of this again makes Rocky a closer clone to RHEL than AlmaLinux is. However, some of these aspects of Rocky still make me gravitate more towards AlmaLinux.
 
