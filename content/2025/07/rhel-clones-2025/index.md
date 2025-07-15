@@ -1,15 +1,14 @@
 ---
-title: 'Read this before choosing a RHEL Clone'
-date: '2025-07-11'
-url: rhel-clones-2025
-draft: true
+title: 'Read THIS before choosing a RHEL Clone'
+date: '2025-07-14'
+url: rhel-clones-almalinux-centos-rocky-2025
+draft: false
 authors:
-  - "Brandon Hopkins"
+  - "Cameron Knauff"
 categories:
   - "Software"
 tags:
   - "Distros"
-  - "Guides"
   - "Linux"
   - "Red Hat"
   - "Fedora"
