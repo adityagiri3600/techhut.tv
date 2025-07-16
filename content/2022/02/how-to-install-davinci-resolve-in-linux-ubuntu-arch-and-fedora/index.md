@@ -1,5 +1,5 @@
 ---
-title: "Install DaVinci Resolve in Linux (Ubuntu, Arch, and Fedora)"
+title: "Install DaVinci Resolve in Linux (Outdated)"
 date: "2022-02-13"
 url: how-to-install-davinci-resolve-in-linux-ubuntu-arch-and-fedora
 draft: false
