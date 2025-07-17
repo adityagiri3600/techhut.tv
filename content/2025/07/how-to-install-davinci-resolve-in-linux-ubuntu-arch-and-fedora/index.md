@@ -1,7 +1,7 @@
 ---
 title: "Install DaVinci Resolve in Any Linux Distro Using DavinciBox (2025)"
 date: "2025-07-17"
-url: davincibox
+url: install-davinci-resolve-linux-ubuntu-arch-fedora-davincibox
 draft: false
 authors:
   - "Cameron Knauff"
