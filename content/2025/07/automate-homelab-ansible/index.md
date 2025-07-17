@@ -1,3 +1,17 @@
+---
+title: 'Automate homelab chores with Ansible'
+date: '2025-07-18'
+url: automate-homelab-chores-ansible
+draft: true
+authors:
+  - "Scott Yeager"
+categories:
+  - "Guides"
+tags:
+  - "Guides"
+  - "Linux"
+  - "Red Hat"
+---
 # Automate homelab chores with Ansible
 
 Part of running a homelab is inevitably repeating certain tasks, such as when bringing new servers or VMs online. Often it boils down to connecting by SSH, running a set of commands, and maybe copying over some config files. If you're like me, you might catch on after doing the same thing many, many times and finally write down some notes. But what if we could go a step further and automate homelab tasks, in a way that's actually pretty easy to get started with? Well, that's where Ansible comes in. In this guide we'll learn how to use Ansible, starting with just a basic level of homelab skills.
