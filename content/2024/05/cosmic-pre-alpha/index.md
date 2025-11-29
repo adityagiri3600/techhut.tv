@@ -9,7 +9,7 @@ categories:
   - "Software"
 tags:
   - "Linux"
-  - "Desktop Enviorments"
+  - "Desktop Environments"
   - "Distros"
   - "Pop!_OS"
 ---
