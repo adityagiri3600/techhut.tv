@@ -11,7 +11,7 @@ tags:
   - "Linux"
   - "Customization"
   - "Gnome"
-  - "Desktop Enviorments"
+  - "Desktop Environments"
 ---
 
 This is a list of my favorite GNOME themes, which combine the perfect combination of wallpaper, icons, and extensions. This article is a work in progress.
