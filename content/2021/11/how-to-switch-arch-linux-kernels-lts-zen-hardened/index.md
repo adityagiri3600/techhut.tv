@@ -49,7 +49,7 @@ Above, we have listed the package names that you will want to install. Once you 
 
 Selecting the kernel is done when you boot your system through GRUB. We are going to change some settings in the configuration so that you will see all available kernels without needing to go into advanced settings, and it will save your selection for when you boot in the future.
 
-Open the GRUB condifuration in nano.
+Open the GRUB configuration in nano.
 
 ```
 sudo nano /etc/default/grub

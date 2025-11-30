@@ -25,7 +25,7 @@ https://youtu.be/VaIgbTOvAd0
 
 # Configuring Windows
 
-Before starting this whole process, we will first want to turn off fast startup in Windows to prevent it from loading in the Windows Kernel from your hard drive. This will increase boot save (it’s like a mix between a regular shutdown and Hibernation). However, this can cause instability on a dual boot.
+Before starting this whole process, we will first want to turn off fast startup in Windows to prevent it from loading in the Windows Kernel from your hard drive. This will increase boot speed (it’s like a mix between a regular shutdown and Hibernation). However, this can cause instability on a dual boot.
 
 ![](images/power-plan-windows.png)
 
@@ -81,7 +81,7 @@ Once on the Fedora USB, boot the installer and select “Installation Destinatio
 
 ![](images/install-fedora-setting-1.png)
 
-Next, select the disk you want to install Linux on, then click Done on the top right. This will automatically detect the free space on your disk and install Fedora into it. If you want to double-check, you can set the storage configuration to “Custom,” when you click done, it will prompt partitioning, in which case you can click on “Click here to create them automatically.” Then, you can see what changes Fedora is making to your driving.
+Next, select the disk you want to install Linux on, then click Done on the top right. This will automatically detect the free space on your disk and install Fedora into it. If you want to double-check, you can set the storage configuration to “Custom,” when you click done, it will prompt partitioning, in which case you can click on “Click here to create them automatically.” Then, you can see what changes Fedora is making to your drive.
 
 ![](images/fedora-disk-options.png)
 

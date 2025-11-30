@@ -19,7 +19,7 @@ https://youtube.com/watch?v=ajVqJ1nl9bM
 
 ## 1\. Updating System and Repositories
 
-The first thing you need to do before we can move onto anything else is install system updates. Depending on the age of your install image this may be a few application or a massive system wide update. To update the system will will use the zypper package manager. First we need to refresh the repositories cache to ensure we are getting the latest information.
+The first thing you need to do before we can move onto anything else is install system updates. Depending on the age of your install image this may be a few applications or a massive system wide update. To update the system we will use the zypper package manager. First we need to refresh the repositories cache to ensure we are getting the latest information.
 
 ```
 sudo zypper ref
@@ -31,7 +31,7 @@ Now we will run the update command with zypper to update the system.
 sudo zypper update
 ```
 
-Next we are going to add some additional repositories. By default the standard OpenSUSE repositories are very limited. What we will do now is enable [Packman 6](https://en.opensuse.org/Additional_package_repositories?ref=archive.techhut.tv), not to be confused with the [Arch pacman](https://wiki.archlinux.org/index.php/pacman?ref=archive.techhut.tv) package manager. You can add this repository though the terminal using zypper or though YaST. Below you can pick what command to use depending on the version of OpenSUSE you have installed.
+Next we are going to add some additional repositories. By default the standard OpenSUSE repositories are very limited. What we will do now is enable [Packman 6](https://en.opensuse.org/Additional_package_repositories?ref=archive.techhut.tv), not to be confused with the [Arch pacman](https://wiki.archlinux.org/index.php/pacman?ref=archive.techhut.tv) package manager. You can add this repository through the terminal using zypper or through YaST. Below you can pick what command to use depending on the version of OpenSUSE you have installed.
 
 **Tumbleweed:**
 
@@ -55,11 +55,11 @@ sudo zypper dup --from packman --allow-vendor-change
 
 ## 2\. System Snapshots
 
-Timeshift is generally no go to snapshot utility for backing up and restoring Linux systems. It is a wonderful tool and I recommend checking out [my tutorial on Timeshift 1](http://archive.techhut.tv/post/2020/09/backup-and-restore-linux-timeshift/). With that said OpenSUSE comes with a wonderful utility called snapper. Snapper includes a command line utility, but it is also easy to manager the YaST.
+Timeshift is generally my go-to snapshot utility for backing up and restoring Linux systems. It is a wonderful tool and I recommend checking out [my tutorial on Timeshift 1](http://archive.techhut.tv/post/2020/09/backup-and-restore-linux-timeshift/). With that said OpenSUSE comes with a wonderful utility called snapper. Snapper includes a command line utility, but it is also easy to manage through YaST.
 
 To access snapper just open the YaST control center and select ‘Filesystem Snapshots’ under the Miscellaneous section. A new windows will open up with a list of all your current system snapshots. From here you can create, modify, and delete your existing snapshots.
 
-From here a would recommend creating a new snapshot. Give it a description such as “post-install” “packman added”. If you would like to learn more about snapper including using it though the command line check out this tutorial. Below I included a video from OpenSUSE giving a demonstration on how to do a system restore using snapper.
+From here I would recommend creating a new snapshot. Give it a description such as “post-install” “packman added”. If you would like to learn more about snapper including using it through the command line check out this tutorial. Below I included a video from OpenSUSE giving a demonstration on how to do a system restore using snapper.
 
 ```
 snapper --help
@@ -73,7 +73,7 @@ https://youtube.com/watch?v=AeU\_orsOCNI
 
 Now that we added some repositories and we have a snapshot of our system lets gather some must have packages. These packages will include media codecs, system tools, and more. Some of these packages will require the packman repository. Please go to step one if this has not been added.
 
-First we will install any drivers and media codecs you will need. We will be doing this though [opensuse-community.org](https://www.opensuse-community.org/?ref=archive.techhut.tv). This resource will give us the option for an easy one click install. First install the media codecs for the appropriate desktop environment, then if you have a Nivida card you will see the options to download those below.
+First we will install any drivers and media codecs you will need. We will be doing this though [opensuse-community.org](https://www.opensuse-community.org/?ref=archive.techhut.tv). This resource will give us the option for an easy one click install. First install the media codecs for the appropriate desktop environment, then if you have a Nvidia card you will see the options to download those below.
 
 **Alternatively** , you can install media codecs using the opi search tool.
 
@@ -85,7 +85,7 @@ sudo zypper install opi
 opi codecs
 ```
 
-Next, we will install some additional packages to give us a smoother experience. To install these applications just open up Software Management though YaST and search for the package name in the \[brackets\].
+Next, we will install some additional packages to give us a smoother experience. To install these applications just open up Software Management through YaST and search for the package name in the \[brackets\].
 
 Microsoft Fonts \[fetchmsttfonts\], Build Essentials \[patterns-devel-base-devel\_basis\], OBS Package Installer \[obi\] _please suggest more below!_
 
@@ -95,7 +95,7 @@ Microsoft Fonts \[fetchmsttfonts\], Build Essentials \[patterns-devel-base-devel
 
 ## 4\. YaST Control Center
 
-The YaST Control Center is one of those things that makes OpenSUSE wonderful to work with. Many of the settings that are easy to change within this application would of needed to be done though the terminal in others. When you install OpenSUSE make sure you run though all the different options and setting in this application. Below I will highlight some of the important items you should take a look at.
+The YaST Control Center is one of those things that makes OpenSUSE wonderful to work with. Many of the settings that are easy to change within this application would have needed to be done through the terminal in others. When you install OpenSUSE make sure you run through all the different options and setting in this application. Below I will highlight some of the important items you should take a look at.
 
 **GRUB Boot Timeout**
 
@@ -127,7 +127,7 @@ First you will need to check the version of your OpenSUSE install to ensure you 
 cat /etc/os-release
 ```
 
-Depending on youre version of OpenSUSE you may need to switch out `openSUSE_Tumbleweed` with `openSUSE_Leap_15.2` or whatever version of leap in installed on your system.
+Depending on your version of OpenSUSE you may need to switch out `openSUSE_Tumbleweed` with `openSUSE_Leap_15.2` or whatever version of leap in installed on your system.
 
 ```
 sudo zypper addrepo --refresh https://download.opensuse.org/repositories/system:/snappy/openSUSE_Tumbleweed snappy

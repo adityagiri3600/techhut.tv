@@ -18,7 +18,7 @@ Links below are Amazon affiliate links to the products in this video.
 
 ## Purchase Your Ryzen CPU
 
-Use one of the links below to purchase a Ryzen CPU that comes with the Wraith Prism Cooler. There is a link to the motherboard I am using. It is one of the best budget boards that will work. Bookmark this page, and I’ll see you when you have the goods! If you’re already stocked up, let's continue. Watch the video above for a step-by-step guide with some temperate testing.
+Use one of the links below to purchase a Ryzen CPU that comes with the Wraith Prism Cooler. There is a link to the motherboard I am using. It is one of the best budget boards that will work. Bookmark this page, and I’ll see you when you have the goods! If you’re already stocked up, let's continue. Watch the video above for a step-by-step guide with some temperature testing.
 
 - RYZEN 7 3700X: ([https://amzn.to/2WiU7Bj](https://amzn.to/2WiU7Bj?ref=techhut.tv))
 
@@ -90,7 +90,7 @@ Boards made for this CPU and Cooler will feature hooks, making installing this W
 
 The side with a clamp will have some give so you can move it over the hook. Ensure both sides are hooked, and the cooler is straight and even.
 
-## 11\. Lock Down the Leve
+## 11\. Lock Down the Lever
 
 ![](images/11-amd-cooler-lever-1024x576-1.jpg)
 
@@ -118,6 +118,6 @@ In most cases, the USB connector will work fine. Depending on your setup, you ma
 
 [https://forums.tomshardware.com/threads/amd-wraith-prism-rgb-and-usb-connectors.3479751](https://forums.tomshardware.com/threads/amd-wraith-prism-rgb-and-usb-connectors.3479751)
 
-Congratulations! Enjoy your new system. Check out the video for some temp checks at the end and a overview of the RGB features. Also check out this article on Task Manager for some cool hidden features!
+Congratulations! Enjoy your new system. Check out the video for some temp checks at the end and an overview of the RGB features. Also check out this article on Task Manager for some cool hidden features!
 
 > When installing the processor be sure not to touch or damage any of the pins.

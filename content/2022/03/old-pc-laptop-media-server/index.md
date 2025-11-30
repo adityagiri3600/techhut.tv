@@ -19,7 +19,7 @@ With that said, let's get started.
 
 ## Installing Ubuntu on your Machine
 
-First, we will want to download and install a boot-able disk image of Ubuntu server edition onto a USB flash drive. If you’re running Windows, I recommend you use RUFUS, and if you’re running on a Linux machine, the Popsicle USB Flasher is my go-to tool.
+First, we will want to download and install a bootable disk image of Ubuntu server edition onto a USB flash drive. If you’re running Windows, I recommend you use RUFUS, and if you’re running on a Linux machine, the Popsicle USB Flasher is my go-to tool.
 
 ### [Download Ubuntu Server Edition](https://ubuntu.com/download/server?ref=techhut.tv#downloads)
 
@@ -137,7 +137,7 @@ Open Dolphin or another file browser and connect to the server via sftp. Change 
 
 Now you have full control over the file system on the server. When I do this, I create a media folder in my home directory, and within the media folder, I make one for movies and one for shows. The organization of this is all up to you. Move your files into a media directory on your new server.
 
-I recommend checking out this article from PLEX, which will show you how to name your file to help PLEX organize the meta data of your media files.
+I recommend checking out this article from PLEX, which will show you how to name your file to help PLEX organize the metadata of your media files.
 
 File Naming Tips: [Installation | Plex Support](https://support.plex.tv/articles/200288586-installation/?ref=techhut.tv)
 

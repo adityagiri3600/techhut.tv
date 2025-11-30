@@ -25,7 +25,7 @@ A negative aspect of Flatpaks (and other sandboxed packages) compared to your di
 
 ## Snaps
 
-Now, this is definitely the most controversial of the bunch. Snap packages are a packaging system developed by Canonical, the parent company of Ubuntu. One of the big issues that many people have with the Snap packages is that the Snap store itself is proprietary and controlled by Canonical. Recently, they’ve started replacing some of the packages on the Ubuntu system with snaps by default. Another “feature” of snaps is their auto-updating nature. Now, like flatpacks, snaps are also going to contain all of the dependencies needed to run the actual application. And generally, it will be isolated from the rest of your system.
+Now, this is definitely the most controversial of the bunch. Snap packages are a packaging system developed by Canonical, the parent company of Ubuntu. One of the big issues that many people have with the Snap packages is that the Snap store itself is proprietary and controlled by Canonical. Recently, they’ve started replacing some of the packages on the Ubuntu system with snaps by default. Another “feature” of snaps is their auto-updating nature. Now, like flatpaks, snaps are also going to contain all of the dependencies needed to run the actual application. And generally, it will be isolated from the rest of your system.
 
 ## AppImages
 

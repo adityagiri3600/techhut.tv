@@ -60,7 +60,7 @@ Manjaro Settings Manager ([source: Manjaro GitLab](https://wiki.manjaro.org/inde
 
 ## **Arch-like Alternatives** 
 
-Even though Manjaro isn’t an Arch installer, there are certainly distros that are just Arch (or atleast similar enough to Arch) with an easy installer. If you’re looking for an Arch based system, I recommend installing these types of distros instead. Some of these distros would include [EndeavourOS](https://endeavouros.com/?ref=techhut.tv). EndeavourOS is very close to vanilla Arch and is essentially Arch with a much better installer and a convenient welcome app for configuring the system and setting it up.
+Even though Manjaro isn’t an Arch installer, there are certainly distros that are just Arch (or at least similar enough to Arch) with an easy installer. If you’re looking for an Arch based system, I recommend installing these types of distros instead. Some of these distros would include [EndeavourOS](https://endeavouros.com/?ref=techhut.tv). EndeavourOS is very close to vanilla Arch and is essentially Arch with a much better installer and a convenient welcome app for configuring the system and setting it up.
 
 https://youtu.be/Bz5INOLyql4
 

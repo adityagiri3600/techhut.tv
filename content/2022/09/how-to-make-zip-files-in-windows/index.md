@@ -15,7 +15,7 @@ tags:
 
 https://youtu.be/78dc2qX7GpQ
 
-A ZIP file is a way to compress files to make them easier to send. Let’s say you have a group of files you want to send to someone or upload to the internet. All you have to do is select the items you want to put in a zip file, than right click them, go to “Send to” and “Compressed (zipped) folder”. This will create a zip file in the same directory as the rest of the files, and you can set the name to whatever you want.
+A ZIP file is a way to compress files to make them easier to send. Let’s say you have a group of files you want to send to someone or upload to the internet. All you have to do is select the items you want to put in a zip file, then right click them, go to “Send to” and “Compressed (zipped) folder”. This will create a zip file in the same directory as the rest of the files, and you can set the name to whatever you want.
 
 ![](images/send-to-zip-in-windows.jpg)
 

@@ -46,7 +46,7 @@ Zen Mods focus on productivity and user satisfaction while maintaining Firefox's
 
 ## [Tabby Terminal Emulator](https://tabby.sh/)
 
-Tabby is an open-source terminal emulator built with Electron. It excels in supporting multiple terminal sessions and connects to remote servers via SSH with profiles and an ecrypted vault. Runs on Windows, Mac and Linux
+Tabby is an open-source terminal emulator built with Electron. It excels in supporting multiple terminal sessions and connects to remote servers via SSH with profiles and an encrypted vault. Runs on Windows, Mac and Linux
 
 ![](/images/3_tabby-terminal.png)
 
@@ -80,9 +80,9 @@ It has come to my attention that the newest version v2 of Cider is a paid applic
 
 ### Self-Hosted Alternatives
 
-Now, I generally prefer self-hosting or non-streaming depenant applications. Here are some I would recommened if Apple Music isn't your thing.
+Now, I generally prefer self-hosting or non-streaming dependent applications. Here are some I would recommend if Apple Music isn't your thing.
 
-- [Navidrome](https://www.navidrome.org/): A high-quality, self-hosted music streaming service. Highly recommened.
+- [Navidrome](https://www.navidrome.org/): A high-quality, self-hosted music streaming service. Highly recommended.
 - [PlexAMP](https://www.plex.tv/plexamp/): Ideal for Plex Pass users seeking a dedicated music client.
 - [Strawberry](https://www.strawberrymusicplayer.org): Open source desktop client with a classic feel.
 - [Tauon](https://tauonmusicbox.rocks/): This is a modern feature rich music client.

@@ -20,7 +20,7 @@ Paul Rouget, a former Mozilla employee, is currently working on some patches tha
 
 ### KDE’s hiring a developer and has launched a Blue Friday fundraising
 
-KDE’s now hiring a software engineer to work on its stack: Plasma, Frameworks, and so on. This is actually a first for the organization, as all previous hires were either about non-technical positions (e.g. promotion) or not directly about improving KDE’s products code-wise (e.g. documentation or packaging). All current KDE developers are either hired by third party companies to work on KDE’s products or are volounteers; this will finally change with the new hire.
+KDE’s now hiring a software engineer to work on its stack: Plasma, Frameworks, and so on. This is actually a first for the organization, as all previous hires were either about non-technical positions (e.g. promotion) or not directly about improving KDE’s products code-wise (e.g. documentation or packaging). All current KDE developers are either hired by third party companies to work on KDE’s products or are volunteers; this will finally change with the new hire.
 
 At the same time, there has been the launch of the end-of-the-year fundraising campaign, aligning to Black Friday; it’s called Blue Friday, and it makes it much easier to donate to the organization. This also supports recurring donations, which were only previously allowed via the KDE “relate” project, which was rather hard to use.
 
@@ -34,9 +34,9 @@ https://www.omgubuntu.co.uk/2022/11/dynamic-wallpaper-maker-for-gnome-desktop-up
 
 ### The new StarFighter by StarLabs laptop can now be bought
 
-StarLabs has been teasing this new laptop for months, and new it’s on sale. This might easily be one of the most interesting (and expensive) Linux laptops on the market; it has super thin bezels but preserves camera quality (FHD 1080p, 60fps) by having it as a detachable component that can be stored inside the laptop itself. This is also great as far as privacy goes: having the webcam connected to the laptop only when you actually need to use it will add a layer of safety.
+StarLabs has been teasing this new laptop for months, and now it's on sale. This might easily be one of the most interesting (and expensive) Linux laptops on the market; it has super thin bezels but preserves camera quality (FHD 1080p, 60fps) by having it as a detachable component that can be stored inside the laptop itself. This is also great as far as privacy goes: having the webcam connected to the laptop only when you actually need to use it will add a layer of safety.
 
-Not the only one, though: the laptop also comes with kill switch for Wi-Fi too. It is also remarkable that - compared to other thin-and-lights like the Dell XPS - the StarFighter preserves an amazing I/O: HDMI, 2xUSB-C, 2xUSB-A, microSD, Combo Jack. The screen is matte (anti-glare), up to 4k, with a 16:10 aspect ratio, a refresh rate of 165Hz, and super bright (600cd/m²). Similarly to the latest MacBooks, the touchpad doesn’t have physical buttons but has haptic feedback, which will make - in theory - the entire touchpad area very easy to click on. The quality of the touchpad glass is also supposed to be really good: it’s name Cassidy Glass, after Cassidy James (GNOME/Elementary dev) who very positively reviewed it on a different device.
+Not the only one, though: the laptop also comes with kill switch for Wi-Fi too. It is also remarkable that - compared to other thin-and-lights like the Dell XPS - the StarFighter preserves an amazing I/O: HDMI, 2xUSB-C, 2xUSB-A, microSD, Combo Jack. The screen is matte (anti-glare), up to 4k, with a 16:10 aspect ratio, a refresh rate of 165Hz, and super bright (600cd/m²). Similarly to the latest MacBooks, the touchpad doesn’t have physical buttons but has haptic feedback, which will make - in theory - the entire touchpad area very easy to click on. The quality of the touchpad glass is also supposed to be really good: it's named Cassidy Glass, after Cassidy James (GNOME/Elementary dev) who very positively reviewed it on a different device.
 
 https://9to5linux.com/you-can-now-buy-the-starfighter-4k-linux-laptop-from-star-labs
 
