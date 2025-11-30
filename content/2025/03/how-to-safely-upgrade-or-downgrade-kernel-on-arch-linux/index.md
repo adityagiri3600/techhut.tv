@@ -2,7 +2,7 @@
 title: 'How to Safely Upgrade or Downgrade the Kernel on Arch Linux'
 date: 2025-11-30
 url: how-to-safely-upgrade-or-downgrade-kernel-on-arch-linux
-draft: true
+draft: false
 authors:
   - "Brandon Hopkins"
 categories:
