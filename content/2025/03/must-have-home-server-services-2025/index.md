@@ -342,7 +342,7 @@ Like InfluxDB this is a data collection tool for monitoring and data analytics. 
 
 ### Alternatives and Extras
 Dashboards
-- (alt to Glance/Homarr)
+- [Organizr](https://github.com/causefx/Organizr) (alt to Glance/Homarr)
 
 Tools and Utilities
 - (alt to File Browser)
