@@ -65,7 +65,7 @@ __Checkout the new site: [source](https://www.gnome.org/)__
 
 ## Asahi Linux project lead resigns
 
-It is not easy to explain this news in a few paragraphs. I'll try to give some context on the fly: the Asahi Linux project lead is Hector Martin, and has been since the beginningof the project. Due to various factors, he decided to resign; though he mentioned a lack of Apple M3/M4 support thus far, and missing Thunderbolt and USB-C video out, the arguments around Rust code in the Linux kernel also played a major role.
+It is not easy to explain this news in a few paragraphs. I'll try to give some context on the fly: the Asahi Linux project lead is Hector Martin, and has been since the beginning of the project. Due to various factors, he decided to resign; though he mentioned a lack of Apple M3/M4 support thus far, and missing Thunderbolt and USB-C video out, the arguments around Rust code in the Linux kernel also played a major role.
 
 Indeed, he has some strong words for the project and its leader:
 
@@ -80,7 +80,7 @@ This comes merely a week after Hector Martin tried to bring more attention to th
 > How about you accept the fact that maybe the problem is you.
 
 __Checkout the full article: [source](https://www.phoronix.com/news/Hector-Martin-Resigns-Asahi)__
-__Also see the full resigniation post: [here](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)__
+__Also see the full resignation post: [here](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)__
 
 Editors Note: Checkout the [discussions](https://www.phoronix.com/forums/forum/phoronix/general-discussion/1526426-hector-martin-resigns-from-the-asahi-linux-project) around this for various opinions and user comments. - Brandon Hopkins
 

@@ -98,7 +98,7 @@ Etcher is a way to create bootable USB drives.
 
 ## 9\. GIMP – Professional Image Editing
 
-GIMP is short for GNU IMAGEMANIPULATION PROGRAM. GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. People who are use to Photoshop will appreciate the use of layers.
+GIMP is short for GNU IMAGEMANIPULATION PROGRAM. GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. People who are used to Photoshop will appreciate the use of layers.
 
 ```
 flatpak install https://flathub.org/repo/appstream/org.gimp.GIMP.flatpakref
@@ -112,4 +112,4 @@ https://youtu.be/hUZRQPlM9bU
 
 ## Bonus: Fastfetch – System Info (Updated from Neofetch, May 2024)
 
-This is a fancy way to pull up some system information. Its most common purpose is to take screenshots of your desktop with this open to flex other people in Reddit. This is an alternative to the widely popular but recently discontinued [Neofetch](https://github.com/dylanaraps/neofetch).
+This is a fancy way to pull up some system information. Its most common purpose is to take screenshots of your desktop with this open to flex on other people on Reddit. This is an alternative to the widely popular but recently discontinued [Neofetch](https://github.com/dylanaraps/neofetch).

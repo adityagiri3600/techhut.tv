@@ -52,7 +52,7 @@ This comes timely, as the _last_ version of KDE Plasma 5 (before the 6 series) i
 
 ## Gnome 44 Alpha Released, preparing for release in March
 
-Since we've mentioned how you can help KDE by testing the beta, it would be unfair to also mention that Gnome has also recently started public testing for their next version, which will be released on the 22th of March.
+Since we've mentioned how you can help KDE by testing the beta, it would be unfair to also mention that Gnome has also recently started public testing for their next version, which will be released on the 22nd of March.
 
 Gnome 44 will feature Ephipani - Gnome's Browser - ported to GTK4, grid view (with previews!) for the file chooser dialog, a Bluetooth sub-menu in the Quick Settings and a redesigned Accessibility panel. System settings can also now share Wi-Fi passwords via QR Codes, the Date & Time panel is more mobile-friendly, and you can see kernel and firmware versions in the about page.
 

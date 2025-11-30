@@ -18,7 +18,7 @@ https://youtu.be/61tHrSFkPFo
 
 ## 1\. Librewolf – Privacy web browser.
 
-Librewolf is a fork of the popular free and open source web browser Firefox. Librewolf is a must have on on any system especially if you’re concerned with privacy and security. Librewolf boats a lack of telemetry, additional private search provides, ad blocking, and enhanced security features. Librewolf is always built from the latest stable source of Firefox. One thing to note with this browser is that it will not keep you logged into online accounts. This is part of their enhanced security feature. Librewolf is best paired with a password manager giving you easy access to all of your account while keeping your data secure. See more on Bitwarden below.
+Librewolf is a fork of the popular free and open source web browser Firefox. Librewolf is a must have on on any system especially if you’re concerned with privacy and security. Librewolf boasts a lack of telemetry, additional private search provides, ad blocking, and enhanced security features. Librewolf is always built from the latest stable source of Firefox. One thing to note with this browser is that it will not keep you logged into online accounts. This is part of their enhanced security feature. Librewolf is best paired with a password manager giving you easy access to all of your account while keeping your data secure. See more on Bitwarden below.
 
 Librewolf can be found as a snap, flatpak, in the AUR, or built from source. Checkout their website for installation instructions. [https://librewolf-community.gitlab.io/](https://librewolf-community.gitlab.io/?ref=techhut.tv)
 
@@ -72,9 +72,9 @@ For more installation options checkout their github: [GitHub – aristocratos/bp
 
 ## 7\. Lutris – Play your games on Linux.
 
-Lutris is an essential tool for Linux gamers. As described on their website, “Lutris is an Open Source gaming platform for Linux. It installs and launches games so you can start playing without the hassle of setting up your games. Get your games from GOG, Steam, [Battle.net](http://battle.net/?ref=techhut.tv), Origin, Uplay and many other sources running on any Linux powered gaming machine.” Steam is doing much better with native Linux support, but Lutris is here to fill in the gaps. I’m not much of a gamer, but I’ve used Lutris a few times. Most often to play games from my GOG library. If you’re at all interested I’d recommend checking out the Empure Earth games. They’re wonderful RTS games.
+Lutris is an essential tool for Linux gamers. As described on their website, “Lutris is an Open Source gaming platform for Linux. It installs and launches games so you can start playing without the hassle of setting up your games. Get your games from GOG, Steam, [Battle.net](http://battle.net/?ref=techhut.tv), Origin, Uplay and many other sources running on any Linux powered gaming machine.” Steam is doing much better with native Linux support, but Lutris is here to fill in the gaps. I’m not much of a gamer, but I’ve used Lutris a few times. Most often to play games from my GOG library. If you’re at all interested I'd recommend checking out the Empire Earth games. They’re wonderful RTS games.
 
-Checkout there download page for options. [Download Lutris](https://lutris.net/downloads/?ref=techhut.tv)
+Check out their download page for options. [Download Lutris](https://lutris.net/downloads/?ref=techhut.tv)
 
 ## 8\. Fluent Reader – Modern RSS Reader
 
@@ -97,6 +97,6 @@ Ardour is a hard disk recorder and digital audio workstation application that ru
 
 https://youtu.be/bfTAKv4htDE
 
-You will need to build from source to get the non-trail version. [GitHub – Ardour/ardour: Mirror of Ardour Source Code](https://github.com/Ardour/ardour?ref=techhut.tv)
+You will need to build from source to get the non-trial version. [GitHub – Ardour/ardour: Mirror of Ardour Source Code](https://github.com/Ardour/ardour?ref=techhut.tv)
 
 _Be sure to watch the video at the top of this page to discover addition honorable mentions!_

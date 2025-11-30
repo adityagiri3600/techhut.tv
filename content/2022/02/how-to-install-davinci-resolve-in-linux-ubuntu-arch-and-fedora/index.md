@@ -29,7 +29,7 @@ Installing DaVinci Resolve in Linux is not the easiest thing to do despite its n
 
 _**Important Note**: Using the free version of DaVinci Resolve in Linux will require uncompressed .mov files. These file sizes are LARGE, around 5-30 GB for a 10min video. If this is a no-go for you, I’d recommend Kdenlive._
 
-As you can see, the software has some hefty requirements. This application will not run on integrated graphics and is very specific about the CentOS requirement. Luckily, there are tools and other options for installing Resolve on Fedora, Debain/Ubuntu, and Arch-based systems.
+As you can see, the software has some hefty requirements. This application will not run on integrated graphics and is very specific about the CentOS requirement. Luckily, there are tools and other options for installing Resolve on Fedora, Debian/Ubuntu, and Arch-based systems.
 
 _As of writing this, I’ve only had repeated success installing DaVinci Resolve with an AMD GPU in an Arch Linux system. So please refer to the Arch guide below if you’re running Team Red._
 

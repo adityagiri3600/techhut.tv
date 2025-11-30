@@ -25,7 +25,7 @@ https://debugpointnews.com/flathub-verification-kodi
 
 ### Mastodon 4: The Toot Is Gone.
 
-In these days of great migration from Twitter to Mastodon, we get the fourth version of the software, which includes lots of new changes. One of the first you might notice is that the button to publish posts in no longer called “Toot”; now it’s, simply, “Publish”. The story behind the old name is actually pretty funny, as the original label was “Publish”, actually. However, a famous Youtuber decided to sponsor the project if - and only if, jokingly - the button change its label to “Toot”.
+In these days of great migration from Twitter to Mastodon, we get the fourth version of the software, which includes lots of new changes. One of the first you might notice is that the button to publish posts is no longer called “Toot”; now it’s, simply, “Publish”. The story behind the old name is actually pretty funny, as the original label was “Publish”, actually. However, a famous Youtuber decided to sponsor the project if - and only if, jokingly - the button change its label to “Toot”.
 
 Since Mastodon’s author did not know that the word is a synonym for “fart” in American English, he went for it. A decision that has now been reverted with the goal of making the software as simple as possible for newcomers.On a more serious note, new features of Mastodon 4 are following hashtags, translating posts, editing, an improved filtering system, customizable user roles for administration, and more.
 

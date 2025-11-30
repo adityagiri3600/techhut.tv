@@ -1,7 +1,7 @@
 # Writing Guidelines (wip)
 
 ## Cloning and Pushing Repo
-The Blowfish theme that our website uses is added as a submodule. To run the Hugo server locally it is important that this is also pulled with the repo is closed. The `--recurse-submodules` is needed when the repo is cloned.
+The Blowfish theme that our website uses is added as a submodule. To run the Hugo server locally it is important that this is also pulled when the repo is cloned. The `--recurse-submodules` is needed when the repo is cloned.
 
 ```
 git clone --recurse-submodules https://github.com/TechHutTV/techhut.tv.git
@@ -14,7 +14,7 @@ git push
 ```
 
 ## Images and Video
-Make sure images have a descriptive file name with the number prefix being the order they appear in the article. All images **must* be .jpg, .jpeg, or .png with a strong preference of .jpg.
+Make sure images have a descriptive file name with the number prefix being the order they appear in the article. All images **must** be .jpg, .jpeg, or .png with a strong preference of .jpg.
 ```
 ├── cover.jpg
 ├── images
@@ -38,4 +38,4 @@ Youtube videos use the default hugo shortcodes.
 
 ## Structure and URL
 Folder name should match what we want the url to be ie. linus-rust-drama-cosmic-alpha. Also, going forward we
-will dis-include the url template tag so that news article fall under a date scheme in the url bar.
+will exclude the url template tag so that news article fall under a date scheme in the url bar.

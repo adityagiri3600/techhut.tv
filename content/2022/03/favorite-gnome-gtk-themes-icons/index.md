@@ -52,7 +52,7 @@ Compact Firefox Guide
 
 1. In the navigation bar, type `about:config`
 
-3. Search for `broswer.compactmode.show`
+3. Search for `browser.compactmode.show`
 
 5. Change this setting to **True**
 

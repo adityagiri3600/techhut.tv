@@ -40,7 +40,7 @@ Breaking news: we have a roadmap for the COSMIC alpha!
 
 System76 is currently aiming at a summer release. The remaining work is mostly in remaining features, design matching and bug fixes, and even more bug fixes and .iso files. We don't have an exact list of tasks for each of these sections, but we do get a lot of information about recent changes in the system.
 
-Firstly, there's now a terminal application called (you guessed it) COSMIC Terminal. Features include bidirectional rendering, desktop themes, syntax themes, and GPU rendering. The project relies on the `alacritty_terminal` framework. The app also is now packaged in NixOS!, amongst many other.
+Firstly, there's now a terminal application called (you guessed it) COSMIC Terminal. Features include bidirectional rendering, desktop themes, syntax themes, and GPU rendering. The project relies on the `alacritty_terminal` framework. The app is also now packaged in NixOS, amongst many others.
 
 There's also a new screenshot tool that's quite similar to the very professional GNOME one: you can select what you want to screenshot, and you save it to a clipboard or to a file. There's also the design for a tiling applet that would allow you to turn on/off tiling, select which workspaces to tile in, tell you keyboard shortcuts, and allow you to customize it a bit.
 

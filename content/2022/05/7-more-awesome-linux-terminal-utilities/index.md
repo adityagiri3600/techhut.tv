@@ -23,7 +23,7 @@ I won't be diving into the installation steps for this article for these applica
 
 ![](images/2-toipe-1536x864-1.png)
 
-This is the perfect little tool for those who enjoy typing speed tests. This is a trusty terminal typing tester written in the Rust programing language. You can run this application directly from the binary downloaded from GitHub or install it via cargo.
+This is the perfect little tool for those who enjoy typing speed tests. This is a trusty terminal typing tester written in the Rust programming language. You can run this application directly from the binary downloaded from GitHub or install it via cargo.
 
 [ttps://github.com/Samyak2/toipe](https://github.com/Samyak2/toipe?ref=techhut.tv)
 
@@ -73,6 +73,6 @@ espeak is a command line tool for text-to-speech. It will pronounce those words 
 
 ![](images/7-ascci-1536x864-1.png)
 
-Asciiquarium is an aquarium/sea animation in ASCII art. This doesn’t give us much use or functionality, but it’s definitionally cool. I have a small monitor hooked up to my home lab and it switch back and forth between this and bottom to be continuously displayed.
+Asciiquarium is an aquarium/sea animation in ASCII art. This doesn’t give us much use or functionality, but it's definitely cool. I have a small monitor hooked up to my home lab and it switches back and forth between this and bottom to be continuously displayed.
 
 [https://github.com/cmatsuoka/asciiquarium](https://github.com/cmatsuoka/asciiquarium?ref=techhut.tv)

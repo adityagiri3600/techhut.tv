@@ -17,7 +17,7 @@ Machines running an Intel GPU could face damages due to a Linux kernel bug, Valv
 
 Some Linux users have reported seeing white flashes on their Intel laptop displays after upgrading to Linux kernel version 5.19.12, leading to warnings that the bug may damage displays.
 
-[Syrjä, Intel Linux kernel engineer, recommended](https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/) immediate reversion of the Linux Kernel to an older version to avoid causing hardware damage, "no one using laptops with Intel GPUs run 5.19.2". When you boot your system you should see a few kernel options on grub. If you don't see the option on Grub, press and hold the "Shift" button on your keyboard while booting. There has been a release since giving users a newer version to jump to.
+[Syrjä, Intel Linux kernel engineer, recommended](https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/) immediate reversion of the Linux Kernel to an older version to avoid causing hardware damage, "no one using laptops with Intel GPUs should run 5.19.12". When you boot your system you should see a few kernel options on grub. If you don't see the option on Grub, press and hold the "Shift" button on your keyboard while booting. There has been a release since giving users a newer version to jump to.
 
 [https://www.bleepingcomputer.com/news/linux/linux-kernel-51912-bug-could-damage-intel-laptop-displays](https://www.bleepingcomputer.com/news/linux/linux-kernel-51912-bug-could-damage-intel-laptop-displays)
 
@@ -41,7 +41,7 @@ https://www.omgubuntu.co.uk/2022/10/gnome-extension-manager-0-4-update
 
 Join me as we dive through the weeds and overview some of the common and not so common topics in the Linux world.
 
-## Sneak Peak of Xbox Streaming Device
+## Sneak Peek of Xbox Streaming Device
 
 An Xbox Streaming device is something that was [first announced](https://www.theverge.com/2021/6/10/22527420/microsoft-xbox-tv-app-streaming-stick-xcloud) well over a year ago and has later received the name [Project Keystone](https://www.theverge.com/2022/5/26/23143181/microsoft-keystone-xbox-xcloud-game-streaming-dongle-codename). In a recent Tweet Microsoft’s head of Xbox, Phil Spencer, published a photo of a device on Twitter, of what is believed to be (not confirmed) the next Xbox streaming device. You can see a small white box resembling the look of the Xbox Series S sitting on top of his shelf. This could be a very accessible way to access the Xbox Cloud Gaming service and other streaming platforms.
 

@@ -97,7 +97,7 @@ sudo apt install apache2 apache2-docs apache2-utils
 systemctl status apache2
 ```
 
-At this point you can see if it is working on a web browser and check to see if the domain has fully proergated over if you changed any nameservers. Simply copy/paste your IP into the web browser's address bar and you should see the Apache2 Default Page. Use the commands below to disable the default website, as we will be creating our own directories and configurations later.
+At this point you can see if it is working on a web browser and check to see if the domain has fully propagated over if you changed any nameservers. Simply copy/paste your IP into the web browser's address bar and you should see the Apache2 Default Page. Use the commands below to disable the default website, as we will be creating our own directories and configurations later.
 
 ```
 sudo a2dissite 000-default.conf

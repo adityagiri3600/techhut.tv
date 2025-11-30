@@ -96,7 +96,7 @@ Once it reboots, you will be taken to RetroPie's main homepage. Once again, jump
 
 ![](images/Screen-Shot-2022-10-19-at-9.35.37-AM.png)
 
-In the Wifi selection menu, this will look very similar to the Raspi-Config menus. Select the first option, and it will scan for Wifi networks. Select your and input your password. Once connected, you will be able to see your IP address. Write this down as you will need it to load your ROMS.
+In the Wifi selection menu, this will look very similar to the Raspi-Config menus. Select the first option, and it will scan for Wifi networks. Select yours and input your password. Once connected, you will be able to see your IP address. Write this down as you will need it to load your ROMS.
 
 ![](images/Wifi_Connected_1.3.9.jpg)
 

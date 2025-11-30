@@ -30,7 +30,7 @@ So, what went wrong?
 
 ## Software
 
-The capabilities were good for alpha-level software when I had my initial lock on the device. It was missing a ton of features that you’d need for everyday use, and the JingOS could not deliver on many of the things they promised. To their credit, they improved some things like the virtual keyboard, adding auto-rotation functionality and settings additions such as VPN and peripheral control. But there were also some issues that I couldn’t get around. First, the copy and paste function didn’t work, and their app store barely anything on it (and it doesn’t load at all anymore).
+The capabilities were good for alpha-level software when I had my initial lock on the device. It was missing a ton of features that you’d need for everyday use, and the JingOS could not deliver on many of the things they promised. To their credit, they improved some things like the virtual keyboard, adding auto-rotation functionality and settings additions such as VPN and peripheral control. But there were also some issues that I couldn’t get around. First, the copy and paste function didn’t work, and their app store barely had anything on it (and it doesn’t load at all anymore).
 
 ![](images/jingos-app-store-1024x576.jpg)
 
@@ -48,7 +48,7 @@ Speaking of restoring the JingPad, another major red flag was with this flashing
 
 ![](images/jingos-flash.png)
 
-[On top of that the bootloader is locked by default and locking the bootloader is not easy](https://forum.jingos.com/t/tutorial-how-to-unlock-bootloader-of-jingpad-a1/2718?ref=techhut.tv). You must get the device ID from fastboot, Email them your order number, shopping channel, and device ID, agree to weave your warranty, get a unlock.bin file, and run a fastboot command to unlock the bootloader. [On top of that this forum post is filled with comments of people complaining they never even got their tablet.](https://forum.jingos.com/t/tutorial-how-to-unlock-bootloader-of-jingpad-a1/2718?ref=techhut.tv)
+[On top of that the bootloader is locked by default and locking the bootloader is not easy](https://forum.jingos.com/t/tutorial-how-to-unlock-bootloader-of-jingpad-a1/2718?ref=techhut.tv). You must get the device ID from fastboot, Email them your order number, shopping channel, and device ID, agree to waive your warranty, get a unlock.bin file, and run a fastboot command to unlock the bootloader. [On top of that this forum post is filled with comments of people complaining they never even got their tablet.](https://forum.jingos.com/t/tutorial-how-to-unlock-bootloader-of-jingpad-a1/2718?ref=techhut.tv)
 
 Part of the joy of Linux is being able to switch operating systems and software with ease. This joy was stripped away with the device’s flashing process for the OS. It should have an unlocked bootloader and we should have been able to just boot into an image and install that image onto the internal storage. It’s one thing to have difficulties unlocking a Samsung or LG device, but to have these kinds of struggles on a Linux device is just silly.
 
@@ -66,4 +66,4 @@ I really do wish that this company had succeeded because the hardware is fantast
 
 ![](images/jingling-was-ambitious.png)
 
-In hindsight, they should have put more resources into the hardware instead of the software and used the community to get themselves up and moving. It’s companies in the Linux ecosystem, like Pine64, that take advantage of the community support to end up succeeding. This could have been wonderful, and I still hope that there’s a small team that can turn this operation around, but more likely I hope that I future company can learn from what JingLing did right and wrong.
+In hindsight, they should have put more resources into the hardware instead of the software and used the community to get themselves up and moving. It’s companies in the Linux ecosystem, like Pine64, that take advantage of the community support to end up succeeding. This could have been wonderful, and I still hope that there’s a small team that can turn this operation around, but more likely I hope that a future company can learn from what JingLing did right and wrong.

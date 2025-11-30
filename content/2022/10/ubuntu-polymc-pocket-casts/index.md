@@ -10,17 +10,17 @@ tags:
   - "News"
   - "Archive"
 ---
-Lots of interesting things over the last two weeks.  We have some major releases, applications going open source, some more Xbox news and more. This is our 3rd edition and talk you all so much for being apart of this. We are almost at 200 subscribers so make sure you share this with your friends!
+Lots of interesting things over the last two weeks.  We have some major releases, applications going open source, some more Xbox news and more. This is our 3rd edition and thank you all so much for being a part of this. We are almost at 200 subscribers so make sure you share this with your friends!
 
 ## Ubuntu 22.10 is here!
 
-Everybody's favorite Linux distro, Ubuntu, just came out with it's new 22.10 release. The biggest feature from this release was GNOME 43, which adds things like a redesign of the control center (and looks a lot like macOS). GNOME 43 also finally adds audio input and output to the quick settings. Canonical also updated the Ubuntu system settings to the latest version based on Libadwaita instead of the settomgs app from GNOME 40, and Ubuntu now contains the Gtk4 version of Nautilus which is smoother, and contains much better grid and list views. Finally, Pipewire is now the default audio engine in Ubuntu which is great.
+Everybody's favorite Linux distro, Ubuntu, just came out with its new 22.10 release. The biggest feature from this release was GNOME 43, which adds things like a redesign of the control center (and looks a lot like macOS). GNOME 43 also finally adds audio input and output to the quick settings. Canonical also updated the Ubuntu system settings to the latest version based on Libadwaita instead of the settings app from GNOME 40, and Ubuntu now contains the Gtk4 version of Nautilus which is smoother, and contains much better grid and list views. Finally, Pipewire is now the default audio engine in Ubuntu which is great.
 
 https://www.omgubuntu.co.uk/2022/08/ubuntu-22-10-release-new-features
 
 ## NVIDIA hates Windows too?
 
-One common Linux issue is how much of a pain NVIDIA graphics cards can be on Linux. They are fine on distros like Ubuntu and Pop OS that automatically install proprietary NVIDIA drivers on first run if you have an NVIDIA GPU, however if you are on a distribution like Fedora, Debian, or OpenSUSE... good luck. Even when you do get them installed, NVIDIA drivers on Linux are still very finicky and basic things like Wayland support and dual GPU support can be very buggy. Well, I am pleased to report we are not the only ones suffering. The latest Windows 11 22H2 update has been having issues with NVIDIA's driver including frame drops, screen tearing, and other performance issues. NVIDIA did issue an emergency software update to fix it, but not all issue were fixed, with hardware reviewer Nadalina reporting that there were still micro-suttering in games and lower 1% frame rate figures in a couple of games.
+One common Linux issue is how much of a pain NVIDIA graphics cards can be on Linux. They are fine on distros like Ubuntu and Pop OS that automatically install proprietary NVIDIA drivers on first run if you have an NVIDIA GPU, however if you are on a distribution like Fedora, Debian, or OpenSUSE... good luck. Even when you do get them installed, NVIDIA drivers on Linux are still very finicky and basic things like Wayland support and dual GPU support can be very buggy. Well, I am pleased to report we are not the only ones suffering. The latest Windows 11 22H2 update has been having issues with NVIDIA's driver including frame drops, screen tearing, and other performance issues. NVIDIA did issue an emergency software update to fix it, but not all issue were fixed, with hardware reviewer Nadalina reporting that there was still micro-stuttering in games and lower 1% frame rate figures in a couple of games.
 
 [https://www.neowin.net/news/windows-11-22h2-and-nvidia-drivers-apparently-still-refusing-to-play-nicely-together](https://www.neowin.net/news/windows-11-22h2-and-nvidia-drivers-apparently-still-refusing-to-play-nicely-together)
 
@@ -38,7 +38,7 @@ The popular Minecraft launcher PolyMC has collapsed after the owner "LennyMcLenn
 
 ## Pocket Casts goes Open Source
 
-The popular podcast platform "Pocket Casts" recently released it's mobile apps on GitHub under the Mozilla Public License. This isn't a surprise after Automattic's recent acquisition of Pocket Casts because Automattic is very friendly to open source, and owns many open source projects such as Wordpress, Jetpack, Simplenote, and WooCommerce. Wordpress is one of the biggest open source projects in the world, and Automattic CEO and Founder Matt Mullenweg is also a big fan of open source. However, that said, Pocket Casts hasn't yet open sourced their server side yet, and the desktop and web apps for it are still proprietary and under a paywall. But it is interesting to see such a popular app randomly get open sourced.
+The popular podcast platform "Pocket Casts" recently released its mobile apps on GitHub under the Mozilla Public License. This isn't a surprise after Automattic's recent acquisition of Pocket Casts because Automattic is very friendly to open source, and owns many open source projects such as Wordpress, Jetpack, Simplenote, and WooCommerce. Wordpress is one of the biggest open source projects in the world, and Automattic CEO and Founder Matt Mullenweg is also a big fan of open source. However, that said, Pocket Casts hasn't yet open sourced their server side yet, and the desktop and web apps for it are still proprietary and under a paywall. But it is interesting to see such a popular app randomly get open sourced.
 
 ## Featured GitHub Repo: miniPaint
 
