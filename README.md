@@ -55,10 +55,7 @@ git checkout article/your-article-slug
 # Edit content/YYYY/MM/your-article-slug/index.md
 # Add/remove images in the images/ folder
 
-# 4. Preview locally (if you have Hugo installed)
-hugo server -D
-
-# 5. Commit and push changes
+# 4. Commit and push changes
 git add .
 git commit -m "Editorial fixes"
 git push origin article/your-article-slug
