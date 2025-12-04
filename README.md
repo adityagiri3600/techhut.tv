@@ -34,6 +34,11 @@ Youtube videos use the default hugo shortcodes.
 
 {{< youtube y_8wcMBJrVo >}}
 
+## Structure and URL
+
+Folder name should match what we want the url to be ie. linus-rust-drama-cosmic-alpha. Also, going forward we
+will exclude the url template tag so that news article fall under a date scheme in the url bar.
+
 ## Editing Generated Article PRs
 
 ### Command Line
@@ -80,9 +85,5 @@ git push
 - [ ] Insert screenshots into article body where relevant
 - [ ] Delete unused/bad screenshots
 - [ ] Set `draft: false` when ready to publish
-```
 
 
-## Structure and URL
-Folder name should match what we want the url to be ie. linus-rust-drama-cosmic-alpha. Also, going forward we
-will exclude the url template tag so that news article fall under a date scheme in the url bar.
