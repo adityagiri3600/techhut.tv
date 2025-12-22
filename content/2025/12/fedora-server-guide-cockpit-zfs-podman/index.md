@@ -460,7 +460,7 @@ sudo zpool labelclear -f /dev/sdc
 ### Create the Mirror Pool
 
 ```bash
-sudo zpool create -m /data data mirror /dev/sdb /dev/sdc
+sudo zpool create -m /data data mirror /dev/disk/by-id/... /dev/disk/by-id/...
 ```
 
 This creates a pool named `data` mounted at `/data`. Replace `/dev/sdb` and `/dev/sdc` with your actual drive paths—use `lsblk` to identify them and make sure you're not formatting your OS drive.
