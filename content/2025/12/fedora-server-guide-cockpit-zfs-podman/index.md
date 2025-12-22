@@ -19,9 +19,7 @@ tags:
 ---
 # Fedora Server Guide: Cockpit, ZFS, Podman, and more!
 
-There's nothing wrong with using Proxmox or TrueNAS for your home server. They're excellent platforms that simplify a lot of complexity. But if you've ever wondered what's actually happening underneath those web interfaces, or you want full control over every aspect of your system, building a server on pure Fedora is an incredibly rewarding learning experience.
-
-In this guide, we're going to build a fully functional home server from scratch using Fedora Server and Podman. No hypervisors, no pre-built NAS solutions—just a Linux box running containers. By the end, you'll have a solid foundation with proper storage, essential services, monitoring, and secure remote access.
+There's nothing wrong with using Proxmox or TrueNAS for your home server. They're excellent platforms that simplify a lot of complexity. But in this guide, we're going to build a fully functional home server from scratch using Fedora Server and Podman. No hypervisors, no pre-built NAS solutions—just a Linux box running containers. By the end, you'll have a solid foundation with proper storage, essential services, monitoring, and secure remote access.
 
 ## Why Fedora Server?
 
